@@ -12,7 +12,7 @@ The goal was to convert raw, inconsistent data into analysis-ready structured da
   - Inconsistent industry names
 
 ## 🛠️ Tools & Technologies
-- MySQL 8+/9.1
+- MySQL 8+
 - MySQL Workbench
 - SQL (Joins, Window Functions, Updates)
 - Git & GitHub
@@ -33,6 +33,3 @@ The goal was to convert raw, inconsistent data into analysis-ready structured da
 - Cleaned and analysis-ready dataset
 - Improved data consistency and accuracy
 
-## 📈 Next Steps
-- Exploratory Data Analysis (EDA)
-- Power BI dashboard
